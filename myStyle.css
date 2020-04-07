@@ -1,0 +1,18 @@
+#myCareer {
+    background: yellow;
+    position: absolute;
+    right: 0;
+  }
+  
+  #mymy {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+  }
+
+  div#mystyle span {
+    background: skyblue;
+    border: 1px solid blue;
+  }
+  
